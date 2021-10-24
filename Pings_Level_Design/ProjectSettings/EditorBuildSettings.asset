@@ -4,5 +4,27 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/StarterAssets/ThirdPersonController/Scenes/MainMenu.unity
+    guid: 62e6b2ae7d85c7840bbbb7bbae71d457
+  - enabled: 1
+    path: Assets/StarterAssets/ThirdPersonController/Scenes/Level 1.unity
+    guid: 63ab0bf2c9ddae54aa90f44adf6a6ee0
+  - enabled: 1
+    path: Assets/StarterAssets/ThirdPersonController/Scenes/Level 2.unity
+    guid: 128684c668b6659469f7b493ed2aab75
+  - enabled: 1
+    path: Assets/StarterAssets/ThirdPersonController/Scenes/Level 3.unity
+    guid: e395b8e0b742d5647ae729b60ba082af
+  - enabled: 1
+    path: Assets/StarterAssets/ThirdPersonController/Scenes/Level 4.unity
+    guid: a7053e29ae479304e90e355b99d91824
+  - enabled: 1
+    path: Assets/StarterAssets/ThirdPersonController/Scenes/Level 5.unity
+    guid: 2ba7f9f441413424c86b239e8f4b3199
+  - enabled: 1
+    path: Assets/StarterAssets/ThirdPersonController/Scenes/WontBeDestroyed.unity
+    guid: d13333682afd0f74caed611dcbd2846f
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7, type: 2}
